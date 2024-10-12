@@ -1,0 +1,7 @@
+Text Jquery editor; https://www.jqueryscript.net/text/Rich-Text-Editor-jQuery-RichText.html
+
+hash
+
+
+include là một câu lệnh dùng để nhúng và thực thi nội dung của một file PHP khác vào file hiện tại
+isset() được sử dụng để kiểm tra xem một biến có được khai báo và khác null hay không
