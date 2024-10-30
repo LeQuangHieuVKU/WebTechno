@@ -5,3 +5,8 @@ hash
 
 include là một câu lệnh dùng để nhúng và thực thi nội dung của một file PHP khác vào file hiện tại
 isset() được sử dụng để kiểm tra xem một biến có được khai báo và khác null hay không
+
+strip_tags:Hàm này cố gắng trả về một chuỗi với tất cả các byte NULL, thẻ HTML và PHP được loại bỏ khỏi một chuỗi đã cho. 
+Nó sử dụng cùng một máy trạng thái loại bỏ thẻ như hàm fgetss(). 
+
+substr: trả về phần của chuỗi được chỉ định bởi các tham số offset và length. 
